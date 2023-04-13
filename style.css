@@ -5,62 +5,64 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: #abc2ec;
+    background-color: #241d31;
 }
 .container{
     display: flex;
     height: 700%;
     width: 1000px;
-    box-shadow: 0 0 20px rgba(20, 17, 17, 0.4);
+    box-shadow: 0 0 20px rgba(233, 226, 226, 0.4);
     margin: auto;
     margin-top: 150px;
 }
 .info{
-    background-image: url(arbol.jpg);
+    background-image: url(imagen\ gozu.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    background-size: 150% 50px;
     width: 50%;
 }
 .tex-1{
-    color: #292424;
+    color: #dacbcb;
     text-transform: capitalize;
     font-size: 20%;
     margin-bottom: 25px;
 }
 .info h2{
-    color: #130606;
+   
+    color: #a897a8;
     text-transform: capitalize;
     font-size: 50px;
     margin-bottom: 25px;
 }
 .info hr{
     width: 55px;
-    border: 4px solid #b35656;
+    border: 4px solid #baafc0;
     margin-left: 170px;
     margin-bottom: 25px;
 }
 .tex-2{
-    color: #312323;
+    color: #f3eef3;
     font-size: 18px;
 }
 .form{
+    background-image: url(dota\ 2.webp);
     padding: 150px 100px;
     width: 50%;
     text-align: center;
-    background-color: #4bb7c5;
+  
 }
 .form h2{
-    color: #097EF6;
+    
+    color: #f1efed;
     font-size: 30px;
     margin-bottom: 25px;
 
 }
 form p{
     font-size: 16px;
-    color: #c4c3c3;
+    color: #dacbcb;
     margin-bottom: 25px;
 }
 .inputs {
@@ -69,26 +71,28 @@ form p{
 
 }
 .box {
+   
     outline: none;
-    border-color: #097EF6;
+    border-color: #f64c09;
     border-width: 0px 0px 0px 5px;
     border-style: solid;
     padding: 15px 35px;
     margin-bottom: 20px;
-    background-color: #d3bfbf;
+    background-color: #ebe3e3;
 
 }
 .inputs a{
-    color: #097EF6;
+    
+    color: #adbbc9;
     text-decoration: none;
     font-size: 15px;
     margin-bottom: 35px;
 }
 .submit {
-    background-color: #097EF6;
+    background-color: #262f38;
     padding: 15px;
     border: 0;
-    color: #291212;
+    color: #ccb8b8;
     font-size: 18px;
     text-transform: uppercase;
     border-radius: 25px; 
